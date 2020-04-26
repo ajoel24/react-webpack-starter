@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import image from '../../assets/images/image1.webp';
 
 function App() {
